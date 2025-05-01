@@ -8,6 +8,7 @@
 
 <h1>Descrição de Projeto:</h1>
 <p>Neste projeto, foi desenvolvida uma aplicação web que utiliza dados da PokeAPI (pokeapi.co) para exibir informações sobre Pokémons</p>
+<p>Link para o GitHubPages https://symonsl7.github.io/PokedexJavaScript/</p>
 
 ###
 
